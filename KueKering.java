@@ -3,7 +3,7 @@ public class KueKering extends Kue {
 
     // Constructor
     public KueKering(String namaKue, double harga, String jenisKue) {
-        super(namaKue, harga); // Memanggil constructor Kue
+        super(namaKue, harga); 
         this.jenisKue = jenisKue;
     }
 
