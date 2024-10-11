@@ -1,11 +1,9 @@
-// File: Teh.java
-
 public class Teh extends Minuman {
     private String rasaTeh;
 
     // Constructor
     public Teh(String namaMinuman, double harga, String rasaTeh) {
-        super(namaMinuman, harga); // Memanggil constructor Minuman
+        super(namaMinuman, harga);
         this.rasaTeh = rasaTeh;
     }
 
