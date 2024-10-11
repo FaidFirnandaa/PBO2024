@@ -1,5 +1,3 @@
-// File: KueKering.java
-
 public class KueKering extends Kue {
     private String jenisKue;
 
