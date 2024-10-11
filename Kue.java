@@ -1,5 +1,3 @@
-// File: Kue.java
-
 public class Kue {
     private String namaKue;
     private double harga;
